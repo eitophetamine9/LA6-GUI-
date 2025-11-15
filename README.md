@@ -1,8 +1,8 @@
-# LA6-GUI-
-<b>Group Name: CodeHub<br>
-MEMBER NO: 3<br>
-MEMBER Name: SANTIZO, JOHN ERICK I.<br>
-Assigned Activities:<br>
-#3 - Character Remover<br>
-#4 - Food Ordering System<br>
+# LA6-GUI
+<b>
+ Programmer Name: <span style="color:blue">SANTIZO, JOHN ERICK I.</span></code>
+<br><br>
+<i>Assigned Activities:</i><br>
+#3 - Character Remover &emsp;
+#4 - Food Ordering System &emsp;
 #8 - Password Validator<br></b>
